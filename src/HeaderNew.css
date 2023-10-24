@@ -1,0 +1,21 @@
+.header-new {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:gray;
+    color: black;
+    /* padding: 10px 20px; */
+ }
+ 
+ .input-bar-new {
+   width: 80%;
+    display: flex;
+    align-items: left;
+ }
+ 
+ .button-bar-new {
+   width: 100%;
+    display: block;
+    gap: 10px;
+    color: white;
+ }

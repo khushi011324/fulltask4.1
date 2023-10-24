@@ -1,0 +1,63 @@
+
+.topnav {
+    overflow: hidden;
+    background-color: darkgrey;
+  }
+  
+  .topnav a {
+    display: block;
+    padding: 8px;
+    color: black;
+    text-align: left;
+    padding: 14px 16px;
+    word-spacing: 10px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', sans-serif;
+    
+  }
+  
+  .topnav li {
+    float: left;
+    background-color: darkgrey;
+    width: 100%;
+    overflow: hidden;
+    
+  }
+  
+  .topnav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  .topnav .email-container {
+    float: left;
+   
+  }
+  
+  .topnav input[type="text"] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: 1px solid #ccc;
+    
+   
+  }
+  
+  .topnav .email-container button {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+  }
+
+  
+  .topnav .email-container button:hover {
+    background: #ccc;
+  }
+  
